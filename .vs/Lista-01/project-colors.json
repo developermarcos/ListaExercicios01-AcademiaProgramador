@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "46ca6152-9c32-4dc2-8de3-45e900d661e4": {
+      "ProjectGuid": "46ca6152-9c32-4dc2-8de3-45e900d661e4",
+      "DisplayName": "Calculadora.ConsoleApp",
+      "ColorIndex": 0
+    },
+    "5bdb71fe-5ad0-48c1-b6c3-82574b822e7b": {
+      "ProjectGuid": "5bdb71fe-5ad0-48c1-b6c3-82574b822e7b",
+      "DisplayName": "CelsiusToFahrenheit.ConsoleApp",
+      "ColorIndex": 1
+    },
+    "35bcef96-1b63-42a5-8b83-6c3ff52a7645": {
+      "ProjectGuid": "35bcef96-1b63-42a5-8b83-6c3ff52a7645",
+      "DisplayName": "DiasVida.ConsoleApp",
+      "ColorIndex": 2
+    },
+    "52c868ca-0166-496c-a9ad-5a4e3850cbc9": {
+      "ProjectGuid": "52c868ca-0166-496c-a9ad-5a4e3850cbc9",
+      "DisplayName": "Imobiliaria.ConsoleApp",
+      "ColorIndex": 3
+    },
+    "94643475-e47a-417d-8dec-f8ca4f54e3aa": {
+      "ProjectGuid": "94643475-e47a-417d-8dec-f8ca4f54e3aa",
+      "DisplayName": "Padaria.ConsoleApp",
+      "ColorIndex": 4
+    },
+    "1889015b-1606-4644-a03f-094b38582bbb": {
+      "ProjectGuid": "1889015b-1606-4644-a03f-094b38582bbb",
+      "DisplayName": "Salario.ConsoleApp",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}
